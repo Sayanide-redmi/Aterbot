@@ -8,4 +8,4 @@ How to setup the bot ( Assuming youre not dumb ¯⁠\⁠(⁠°⁠_⁠o⁠)⁠/�
 
 6. Anymote queries? Just uplosd this repo's zip to any AI and ask it questions.
 7. itll be able to fix errors in instant and drop some,
-8. "An Chat GPT a day, Keeps a virus away 😆🤌🦠"
+8. "An Chat GPT a day, Keeps a bug away 😆🤌🦠"
